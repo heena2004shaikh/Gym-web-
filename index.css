@@ -1,0 +1,1132 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.sec1{
+    height: 600px;
+    background-image: url('./img/carousel-2.jpg');
+    color: white;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.sec1 h1{
+    font-size: 2.5em;
+    padding-top: 0.5em;
+    padding-left: 0.2em;
+}
+.nav-ul{
+    display: none;
+    background-color: black;
+    list-style: none;
+    position: absolute;
+    top: 1.5em;
+    right: 0em;
+ 
+}
+.nav-ul li{
+    padding: 0.7em;
+    margin-left: 0.5em;
+    display: inline-block;
+    font-family: 500;
+    
+
+}
+.nav-ul li a{
+    color: white;
+}
+.nav-ul li span a{
+    color: red;
+}
+.nav-ul li select{
+    background: transparent;
+    color: white;
+    border: none;
+}
+.sec1 a i{
+    font-size: 2.2em;
+    position: absolute;
+    right: 0.8em;
+    top: 0.7em;
+}
+.sec1-p1{
+    text-align: center;
+    color: red;
+    font-size: 1.5em;
+    margin-top: 6em;
+    letter-spacing: -2px;
+}
+.sec1-p2{
+    font-size: 2.3em;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 0.5em;
+}
+.sec1-b1{
+    text-decoration: none;
+    background: transparent;
+    color: white;
+    border:1px solid white;
+    font-size: 1.2em;
+    margin-top: 3em;
+    margin-left: 38% ;
+    padding: 0.5em;
+} /*------------------------------------------------------------------------section 1 end-------------------------------------------------------------------*/
+
+.sec2{
+    text-align: right;
+    color: white;
+}
+.sec2 h1{
+    font-size: 2em;
+    margin: 2% 0%;
+}
+.sec2 p{
+    font-size: 0.8em;
+    margin: 2% 0%;
+    
+}
+.sec2-pera1{
+    background-color: red;
+    padding: 1.6em;
+    margin: 2%;
+    margin-left: 0%;
+    margin-right: 4em;
+}
+.sec2-pera2{
+    background-color: rgb(3, 3, 3);
+    padding: 1.6em;
+    margin: 2%;
+    margin-left: 4em;
+    margin-right: 0%;
+    text-align: left;
+
+}
+.sec2-b1{
+    text-decoration: none;
+    background: transparent;
+    color: white;
+    border:1px solid white;
+    font-size: 1em;
+    margin-top: 1em;
+    padding: 0.4em;
+ 
+}/*-----------------------------------------------------------section 2 end ------------------------------------*/
+
+
+.section3{
+margin-bottom: 10%;
+}
+
+.sec3-par1{
+    margin-top: 10%;
+    width: 70%;
+
+}
+.sec3-par1 img{
+    width: 100%;
+    height: 400px;
+    margin-left: 1em;
+}
+.sec3-par1-th h1{
+    margin-top: 0.5em;
+    font-size: 1.7em;
+    margin-left: 1em;
+    font-weight: 900;
+}
+.sec3-par1-th p{
+    color: rgb(120, 117, 117);
+    margin-left: 1em;
+    font-size: 0.9em;
+    margin-bottom:1em;
+}
+.sec3-icon-ul{
+    list-style: none;
+    margin-left: 5%;
+   
+ }
+.sec3-icon-ul li a{
+    font-size: 2.5em;
+    color: rgb(202, 49, 49);
+  margin-top: 3%;
+
+}
+.sec3-icon-ul li h2{
+    font-size: 1.8em;
+    margin: 2% 0%;
+    font-weight: 900;
+
+}
+.sec3-b1{
+    text-decoration: none;
+    background: transparent;
+    color: rgb(206, 34, 34);
+    border:2px solid rgb(220, 31, 31);
+    font-size: 1.2em;
+    margin-top: 1em;
+    padding: 0.4em;
+    margin-left: 6%;
+ 
+}/*---------------------------------------------------------------------section 3 end ---------------------------------------------*/
+
+
+
+.section4{
+    margin-bottom: 10%;
+    color: white;
+}
+/* .sec4-blog1{
+    display:inline-block;
+} */
+.sec4 a i{
+    color: red;
+    font-size: 3em;
+
+    
+}
+
+.sec4-icon{
+    display: inline-block;
+    margin-right: 3%;
+
+}
+.sec4 h1{
+    font-size: 2em;
+    display:inline-block;
+
+    
+}
+.sec4 p{
+    font-size:0.8em;
+    margin-left: 5.2em;
+    display:inline-block;
+}
+.sec4-blog1{
+    padding: 2em;
+    padding-left: 0.5em;
+    background-color: rgb(26, 22, 22);
+}
+.sec4-blog2{
+    padding: 2em;
+    padding-left: 0.5em;
+    background-color: rgb(224, 54, 54);
+}
+.sec4-blog2 a i{
+    font-size: 3em;
+    color: black;
+}
+.sec4-blog2 p{
+    margin-left: 6em;
+}
+.sec4-blog3{
+    padding: 2em;
+    padding-left: 0.5em;
+    background-color: rgb(26, 22, 22);
+}
+.sec4-blog3 p{
+    margin-left: 4.2em;
+}/*----------------------------------------------------------------Section 4 end -----------------------------------*/
+
+.sec5-blog1 {
+    text-align: center;
+    margin-bottom: 5%;
+}
+.sec5-blog1 p{
+    color: red;
+    font-size: 22px;
+    margin-bottom: 2%;
+
+}
+.sec5-blog1 h1{
+    font-size: 25px;
+}
+
+.sec5-img{
+    width: 45%;
+    position: relative;
+    margin: 2% 2%;
+   
+}
+.sec5-img a i{
+    font-size: 22px;
+    color: rgb(246, 238, 238);
+    background-color: red;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    right: 0px;
+}
+.sec5-img img{
+    width: 100%;
+}
+.blog-1{
+    margin-bottom: 3em;
+}
+.blog-2{
+    margin-bottom: 3em;
+}
+.blog-3{
+    margin-bottom: 3em;
+}
+.blog-4{
+    margin-bottom: 3em;
+}
+.sec5-content{
+    margin-left:50%;
+    margin-top: -30%;
+}
+.sec5-content h2{
+    font-size: 20px;
+}
+.sec5-content p{
+    font-size: 12px;
+    margin-top: 2%;
+}/*---------------------------------------------------------------section 5 end ------------------------------------------*/
+
+.section6{
+    background-image: url('./img/bg.jpg');
+    background-size: 100% 100%;
+    margin-top: 7em;
+    padding: 50px 0px;
+    margin-bottom: 10%;
+}
+.sec6-heding h1{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    margin: 1% 0%;
+    font-weight: 700;
+}
+.sec6-heding p{
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    margin: 1% 0%;
+}
+.sec6-email{
+   display: flex;
+    margin-left: 45px;
+    justify-content: center;
+    
+}
+.sec6-email input{
+    width: 180px;
+    height: 25px;
+}
+button{
+    text-decoration: none;
+    display: inline-block;
+    background-color: red;
+    color: white;
+    padding: 4px;
+}/*---------------------------------------------------------------------section 6 rnd ----------------------------*/
+
+.section7{
+    margin-bottom: 10%;
+}
+.sec7-blog1 {
+    text-align: center;
+    margin-bottom: 5%;
+}
+.sec7-blog1 p{
+    color: red;
+    font-size: 22px;
+    margin-bottom: 2%;
+
+}
+.sec7-blog1 h1{
+    font-size: 25px;
+}
+.sec7-all{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly; 
+    margin-bottom: 2%; 
+}
+.sec7-all li{
+    color: red;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.sec7-all li:hover{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    display: inline-block;
+  
+}
+table{
+    border-collapse: collapse;
+    margin: 0% 1%;
+}
+table tr th{
+    border: 1px solid rgb(241, 239, 239);
+    padding: 3px;
+   
+ 
+}
+thead{
+    background-color: black;
+    color: white;
+    font-size: 10px;
+}
+
+table tr td{
+    border: 1px solid black;
+    padding: 3px;
+    font-size: 8px;
+}
+table tr td span{
+    font-weight: 500;
+    font-size: 10px;
+}
+.sec7-time{
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    font-size: 10px;
+    padding-left: 5px;
+    
+}/*-----------------------------------------------------------------setion 8 end----------------------------------------*/
+
+.sec8-bg{
+    background-image: url('./img/carousel-1.jpg');
+    background-size: 100% 100%;
+    padding: 30px;
+    color: white;
+  text-align: left;
+  padding-left: 20px;
+}
+.sec8-bg span{
+    color: red;
+}
+.sec8-bg h2{
+    font-size: 30px;
+    font-weight: 700;
+}
+.sec8-bg p{
+    font-size: 12px;
+    font-weight: 700;
+}
+.sec8-cal h2{
+    margin-bottom: 2%;
+    margin-left: 2%;
+}
+.sec8-cal{
+    background-color: black;
+    color: white;
+    background-size: 100% 100%;
+    margin-bottom: 5%;
+    padding: 30px;
+    
+}
+.sec8-cal input{
+    background-color: rgba(66, 61, 61, 0.374);
+   border: none;
+   outline: none;
+   border: 0.5px solid rgb(134, 133, 133);
+   width: 40%;
+   padding: 5px;
+   margin: 3% 2%;
+}
+.sec8-cal button{
+    background-color: rgb(86, 84, 84);
+    width: 93%;
+    margin-left: 2%;
+    border: 1px solid rgb(134, 133, 133);
+    padding: 5px;
+}
+.sec8-cal button:hover{
+    border: 2px solid white;
+}/*----------------------------------------------------------section 8 end---------------------------------*/
+
+.section9{
+    margin-bottom: 10%;
+}
+.sec9-blog1 {
+    text-align: center;
+    margin-bottom: 5%;
+}
+.sec9-blog1 p{
+    color: red;
+    font-size: 22px;
+    margin-bottom: 2%;
+    font-weight: 700;
+
+}
+.sec9-blog1 h1{
+    font-size: 25px;
+    font-weight: 800;
+}
+.img1{
+    width: 100%;
+
+}
+.img1 img{
+    width: 100%;
+}
+.sec9-img-1{
+  display: flex;
+  
+  
+}
+.sec9-img1{
+    flex-basis: 40%;
+    background-color: black;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.sec9-img1 .team1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.sec9-img1 .team1 h3{
+    font-size: 20px;
+}
+.sec9-img1 .team1 p{
+    color: red;
+
+}/*---------------------------------------------------------------------------section 10 end ------------------------------------*/
+
+.sec10-clint{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.sec10-cal{
+    display: flex;
+    align-items: center;
+}
+.sec10-img{
+    width: 25%;
+}
+.sec10-img img{
+    border-radius: 50%;
+    padding: 2px;
+}
+.sec10-clintname{
+    margin-left: 10px;
+}
+.sec10-clintname h2{
+    color: red;
+    font-size: 22px;
+    margin: 3px 0px;
+}
+.sec10-clintname p{
+    color: rgb(177, 172, 172);
+    
+}
+.sec10-content {
+    width: 80%;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.sec10-content p{
+    font-size: 10px;
+    border: 1px solid rgb(138, 136, 136);
+    padding: 7px;
+}
+
+.sec10-bg{
+    background-image: url('./img/carousel-2.jpg');
+    background-size: 100% 100%;
+    padding: 30px;
+    color: white;
+  text-align: left;
+  padding-left: 20px;
+  margin-top: 0;
+}
+.sec10-bg span{
+    color: red;
+}
+.sec10-bg h2{
+    font-size: 30px;
+    font-weight: 700;
+}
+.sec10-bg p{
+    font-size: 12px;
+    font-weight: 700;
+}/*--------------------------------------------------------------------section 10 end ---------------------------------------------*/
+.sec11-blog1 {
+    text-align: center;
+    margin-bottom: 5%;
+}
+.sec11-blog1 p{
+    color: red;
+    font-size: 22px;
+    margin-bottom: 2%;
+    font-weight: 700;
+
+}
+.sec11-blog1 h1{
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.sec11-blog-1{
+    margin: 20px 20px;
+}
+.sec11-imge{
+    flex-basis: 20%;
+}
+.sec11-imge img{
+    width: 100%;
+}
+.sec11-jan{
+    display: flex;
+    margin-top: 20px;
+}
+.sec11-date{
+    background-color: rgb(219, 42, 42);
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+}
+.sec11-date p{
+    font-size: 12px;
+}
+.sec11-date span{
+    font-weight: 800;
+    font-size: 20px;
+}
+.sec11-heading h2{
+    font-size: 20px;
+}
+.sec11-ul{
+    display: flex;
+    list-style: none;
+}
+.sec11-ul li{
+    font-size: 13px;
+    padding-left: 5px;
+}
+.sec11-heading{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+.sec11-pra{
+    font-size: 13px;
+}
+.sec11-pra button{
+    margin-top: 30px;
+    border: 1px solid red;
+    background-color: white;
+    color: red;
+    padding: 7px;
+}/*----------------------------------------------------------------------------section 11 end ----------------------------------------*/
+.section12{
+    background-image: url('./img/bg.jpg');
+    background-size:100% 100%;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+.sec12{
+    margin-left: 20px;
+}
+.sec12 h2{
+margin-top: 5%;
+margin-bottom: 5%;
+
+}
+.sec12-gat h2{
+    color: red;
+    font-size: 23px;
+}
+.addres-ul{
+    list-style: none;
+}
+.addres-ul li{
+    font-size: 12px;
+    line-height: 20px;
+}
+.addres-ul li a i{
+    margin-right: 10px;
+}
+.icon-ul{
+    display:flex ;
+    list-style: none;
+}
+.icon-ul li{
+    border: 1px solid white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-right: 10px;
+    line-height: 20px;
+
+}
+
+.sec12-Quik h2{
+    color: red;
+    font-size: 23px;
+}
+.ouik-ul{
+    list-style: none;
+    
+}
+.ouik-ul li{
+    line-height: 30px;
+}
+.ouik-ul span{
+    font-weight: 800;
+    margin-right: 5px;
+}
+.sec12-popular h2{
+    color: red;
+    font-size: 23px;
+}
+.popular-ul{
+    list-style: none;
+}
+.popular-ul li{
+    line-height: 30px;
+}
+.popular-ul span{
+    font-weight: 800;
+    margin-right: 5px;
+}
+.sec12-opening{
+    line-height: 30px;
+}
+.sec12-opening span{
+    font-weight: 800;
+    font-size: 20px;
+
+}
+.sec12-opening h2{
+    color: red;
+    font-size: 23px;
+}
+hr{
+    /* width: 70%; */
+    height: 2px;
+    margin: 3% 15%;
+    background-color: rgb(117, 117, 117);
+    border: none;
+    border-radius: 2px;
+}
+.last{
+    text-align: center;
+    font-size: 13px;
+}
+.last span{
+    font-weight: 800;
+}/*-------------------------------------------------------------------section 12 end ---------------------------------------------*/
+
+
+
+@media (min-width:768px) {
+    .sec1-p1{
+        margin-top: 7em;
+    }
+    .sec1-p2{
+        font-size:2.5em ;
+    }
+    .sec1-b1{
+        font-size: 1.5em;
+        margin-top: 1.5em;
+        margin-left: 42%;
+    }/*---------------------------------------------------------------section 1 end --------------------------------*/
+    .sec2{
+        display: flex;
+        margin: -5em 2em;
+    }
+    .sec2-pera1{
+        margin-right: 0%;
+        z-index: 1;
+    }
+    .sec2-pera2{
+        margin-left: 0%;
+        z-index: 1;
+    }/*---------------------------------------------------secton 2 end ---------------------*/
+    
+    .sec3-par1{
+        width: 40%;
+    }
+    .sec3-par1 img{
+        width: 100%;
+    }
+    .sec3-par1-th{
+        margin-left: 44%;
+        margin-top: -25em;
+    }
+    .sec3-par1-th h1{
+        font-size: 2.2em;
+        margin-left: 2%;
+    }
+    .sec3-icon{
+       margin-left: 45%;
+       margin-top: 2em;
+    }
+    .sec3-icon-ul{
+        display: flex;
+    }
+    .sec3-icon-ul li a{
+        font-size: 3.5em;
+        margin-bottom: 2em;
+    }
+    
+    .sec3-icon-ul li h2{
+        font-size: 1em;
+    }
+    .sec3-icon-ul li p{
+        font-size: 0.8em;
+    }
+    .sec3-b1{
+        margin-top: 1em;
+        margin-left: 47%;
+    }/*-------------------------------section 3 end ---------------------------------------------------*/
+    
+
+    .sec4{
+        display: flex;
+    }
+    .sec4 h1{
+        font-size: 1.5em;
+    }
+    .sec4 p{
+        font-size: 0.5em;
+        margin-left: 7.5em;
+    }
+    .sec4-blog1{
+        padding: 1em;
+    }/*------------------------------------------------------section 4 end-----------------------------------*/
+
+    .blog-1 {
+        width: 50%;
+               
+    }
+    .blog-2 {
+        width: 50%;
+    
+    }
+    .blog-3 {
+        width: 50%;
+    }
+    .blog-4 {
+        width: 50%;
+    }
+    .sec5-holeblog{
+        display: inline-block;
+        
+    }
+    .sec5-content h2{
+        font-size: 20px;
+    }
+    .top{
+        display: flex;
+        margin-left: 2%;
+        padding-right: 1%;
+       
+    }
+    .bottom{
+        display: flex;
+        margin-left: 2%;
+        padding-right: 1%;
+    }/*------------------------------------------------------section 5 end ----------------------------------*/
+
+    .section6{
+        margin-top: 3em;
+    }
+    .sec6-heding h1{
+        font-size:30px;
+        font-weight: 900;
+    }
+    .sec6-email input{
+        width: 220px;
+    }/*--------------------------------------------------------------------section 6 end ----------------------------------------------*/
+    .sec7-blog1 P{
+        font-size: 27PX;
+    }
+.sec7-blog1 h1{
+    font-size: 35px;
+}
+    
+    .sec7-all{
+        justify-content: space-evenly;
+    }
+    .sec7-all li:hover{
+        padding: 8px;
+       
+    }
+    thead{
+        font-size: 18px;
+    }
+    table tr th{
+        padding: 5px;
+    }
+    table tr td{
+        font-size: 15px;
+        padding: 5px;
+    }
+    table tr td span{
+        font-size: 18px;
+    }
+    .sec7-time{
+        font-size: 15px;
+    }/*--------------------------------------------------------secton 7 end -------------------------------------------*/
+    .sec8-bg{
+        width: 100%;
+        height: 260px;
+        align-content: center;
+    }
+    .sec8-bg span{
+        font-weight: 700;
+
+    }
+    .sec8-bg h2{
+        font-size: 30px;
+      
+
+    }
+    .sectrion8{
+        display: flex;
+        width: 95%; 
+    }
+    .sec8-cal{
+        padding-top: 10%;
+        padding-bottom: 10%;
+        height: 175px;
+    }
+    .sec8-cal h2{
+        font-size: 30px;
+    }
+    .sec8-cal input{
+        padding: 7px;
+    }/*------------------------------------------------------------------section 8 end ---------------------------------------------------------*/
+
+    .sec9-blog1 h1{
+        font-size: 35px;
+    }
+    .sec9{
+        display: inline-flex;
+        padding-right:10px;
+      
+    }
+    .sec9-img1{
+        flex-basis:45%;
+    }/*--------------------------------------------------------------section 9 end 
+    ----------------------------------------------*/
+    
+    .sectrion10{
+        margin-left: 70px;
+        margin-bottom: 10%;
+    }
+    .sec10-clint{
+        align-content: center;
+
+    }
+    .sec10-bg{
+        width: 100%;
+        height: 260px;
+        align-content: center;
+    }
+    .sec10-bg span{
+        font-weight: 700;
+
+    }
+    .sec10-bg h2{
+        font-size: 30px;
+      
+    }
+    .sectrion10{
+        display: flex;
+        width: 95%; 
+    }
+    .sec10-clintname{
+        margin-left: 30px;
+    }/*-------------------------------------------------------------------section 10 end --------------------------------------*/
+    
+    .sec11-blog1 {
+        margin-bottom: 2%;
+    }
+    .sec11-blog1 h1{
+        font-size: 35px;
+    }
+    .sec11{
+        display: inline-flex;
+        margin-left: 3%;
+        margin-right: 3%;
+    }/*-----------------------------------------------------------------sectoin 11 end -------------------------------------------*/
+    .sec12{
+      display:flex;
+      justify-content: space-evenly;
+    }
+    .sec12 h2{
+        font-size: 20px;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        
+    }
+
+    .addres-ul li{
+        line-height: 35px;
+    }
+    .ouik-ul li{
+        font-size: 15px;
+        line-height: 30px;
+        font-weight: 600;
+    }
+    .icon-ul{
+        margin-top: 15px;
+    }
+    .last{
+        font-size: 14px;
+    }/*----------------------------------------------------------------section 12 end ----------------------------------------------------*/
+    
+ 
+
+
+   
+
+   
+
+
+
+   
+    
+}
+
+
+
+@media (min-width:1024px) {
+    .nav-ul{
+        display: block;
+    }
+    .sec1 a i{
+        display: none;
+    }
+    
+    .sec1-p1{
+        font-size: 1.5em;
+    } /*-----------------------------------section 1end -------------------------------------------------------*/
+    .sec2{
+        display: flex;
+        margin: -5em 5em;
+    }
+    .sec2 h1{
+        font-size: 2.5em;
+        margin: 2% 0%;
+    }
+    .sec2 p{
+        font-size: 0.9em;
+        margin: 2% 0%;
+        
+    }
+    .sec2-b1{
+        font-size: 1.2em;
+    } /*-----------------------------------------------------------------------section 2 end----------------------*/
+    
+
+    .bottom{
+      margin-top: 5%;
+    }/*section 5 end -----------------------------------------------------------------------*/
+
+
+   
+    .sec6-heding h1{
+        font-size: 40px;
+        font-weight: 900;
+    }
+    .sec6-heding p{
+        font-size: 15px;
+    }
+    .sec6-email input{
+        width: 220px;
+    }/*---------------------------------------------------------section 6 end -------------------------------------*/
+    .sec7-blog1 P{
+        font-size: 30PX;
+    }
+    .sec7-blog1 h1{
+        font-size: 40px;
+    }
+    .sec7-table{
+        margin: 2% 2%;
+    }
+    thead{
+        font-size: 18px;
+    }
+    table tr th{
+        padding: 10px;
+    }
+    table tr td{
+        font-size: 15px;
+        padding: 8px;
+    }
+    table tr td span{
+        font-size: 17px;
+    }
+    .sec7-time{
+        font-size: 14px;
+    }/*---------------------------------------------------------------section 7 end ---------------------------*/
+
+    .sec8-bg{
+        width: 100%;
+        height: 260px;
+        align-content: center;
+    }
+    .sec8-bg span{
+        font-weight: 700;
+
+    }
+    .sec8-bg h2{
+        font-size: 30px;
+      
+
+    }
+    .sectrion8{
+        display: flex;
+        width: 95%; 
+    }
+    .sec8-cal{
+       padding-top: 70px;
+       padding-bottom: 75px;
+    }
+    .sec8-cal h2{
+        font-size: 30px;
+    }
+    .sec8-cal input{
+        padding: 7px;
+    }/*----------------------------------------------------------------section 8 end----------------------------------------------*/
+
+    .sec9{
+       
+        padding-right:20px;
+      
+    }/*----------------------------------------------------------------section 10 end -------------------------------------*/
+    .sec10-bg{
+        width: 100%;
+        height: 260px;
+        align-content: center;
+    }
+    .sec10-bg span{
+        font-weight: 700;
+
+    }
+    .sec10-bg h2{
+        font-size: 30px;
+      
+
+    }
+
+   
+   
+
+   
+
+
+    
+}
